@@ -1,17 +1,6 @@
 # Objective
 
-This repository contains the practical material to use on PlasmaBio for the fisrst session of my R lectures to the master students of the magistère européen de génétique at Université de Paris.
-
-There is a preparatory session followed by 7 sessions:
-
-- R0: 1st steps with R
-- R1: R environment, main R objetcs and particularly vectors.
-- R2: TBA
-- R3: TBA
-- R4: TBA
-- R5: TBA
-- R6: TBA
-- R7: TBA
+This repository contains the R environment for prctical sessions to the master students of the magistère européen de génétique at Université de Paris following the optional course "genomics_bioinformatics".
 
 ## Try it on Binder
 
