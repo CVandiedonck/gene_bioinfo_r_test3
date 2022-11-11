@@ -29,3 +29,4 @@ dependencies:
   - r-factominer
   - r-dt
   - bioconductor-clusterprofiler
+  - bioconductor-complexheatmap
