@@ -28,3 +28,4 @@ dependencies:
   - r-tidyverse
   - r-factominer
   - r-dt
+  - bioconductor-clusterprofiler
