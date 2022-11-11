@@ -24,7 +24,7 @@ dependencies:
   - jupyterlab-git
   # R environment
   - r-irkernel
-  - r-base>=4.1.0
+  - r-base>=4.2.0
   - r-rcpp
   - r-tidyverse
   - r-factominer
