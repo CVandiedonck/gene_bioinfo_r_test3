@@ -32,4 +32,4 @@ dependencies:
   - r-dt
   - bioconductor-clusterprofiler
   - bioconductor-complexheatmap
-  - bioconda bioconductor-biomart
+  - bioconductor-biomart
