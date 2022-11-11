@@ -16,5 +16,5 @@ R -e "BiocManager::install()"
 # https://bioconductor.org/packages/release/bioc/html/Biostrings.html
 # R -e "BiocManager::install('Biostrings')"
 # R -e "BiocManager::install('biomaRt')"
-R -e "BiocManager::install('clusterProfiler')"
-R -e "BiocManager::install('ComplexHeatmap')"
+# R -e "BiocManager::install('clusterProfiler')"
+# R -e "BiocManager::install('ComplexHeatmap')"
