@@ -25,8 +25,10 @@ dependencies:
   # R environment
   - r-irkernel
   - r-base>=4.1.0
+  - r-rcpp
   - r-tidyverse
   - r-factominer
+  - r-factoextra
   - r-dt
   - bioconductor-clusterprofiler
   - bioconductor-complexheatmap
