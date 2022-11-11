@@ -31,5 +31,7 @@ dependencies:
   - r-factominer
   - r-factoextra
   - r-dt
+  - r-igraph
+  - r-polyclip
   #- bioconductor-clusterprofiler
   #- bioconductor-complexheatmap
