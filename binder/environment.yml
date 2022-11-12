@@ -27,7 +27,7 @@ dependencies:
   - r-irkernel
   - r-base>=4.1.0
   - r-rcpp
-  - r-tidyverse=1.3.1.9000
+  - r-tidyverse
   - r-factominer
   - r-factoextra
   - r-dt
