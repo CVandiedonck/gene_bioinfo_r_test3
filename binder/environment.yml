@@ -33,6 +33,8 @@ dependencies:
   - r-dt
   - r-repr
   - r-writexls
+  - r-readxl
+  - r r-rcolorbrewer
   - r-gtools
   - r-catools
   - r-igraph
@@ -41,6 +43,6 @@ dependencies:
   -r r-gplots
   -r r-ggupset
   -r r-ggridges
-  
+  -r r-ggnewscale
   #- bioconductor-clusterprofiler
   #- bioconductor-complexheatmap
