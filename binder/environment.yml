@@ -34,7 +34,7 @@ dependencies:
   - r-repr
   - r-writexls
   - r-readxl
-  - r r-rcolorbrewer
+  - r-rcolorbrewer
   - r-gtools
   - r-catools
   - r-igraph
