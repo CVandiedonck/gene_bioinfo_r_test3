@@ -31,7 +31,16 @@ dependencies:
   - r-factominer
   - r-factoextra
   - r-dt
+  - r-repr
+  - r-writexls
+  - r-gtools
+  - r-catools
   - r-igraph
   - r-polyclip
+  - r-dendextend
+  -r r-gplots
+  -r r-ggupset
+  -r r-ggridges
+  
   #- bioconductor-clusterprofiler
   #- bioconductor-complexheatmap
