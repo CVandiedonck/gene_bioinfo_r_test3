@@ -40,9 +40,9 @@ dependencies:
   - r-igraph
   - r-polyclip
   - r-dendextend
-  -r r-gplots
-  -r r-ggupset
-  -r r-ggridges
-  -r r-ggnewscale
+  - r-gplots
+  - r-ggupset
+  - r-ggridges
+  - r-ggnewscale
   #- bioconductor-clusterprofiler
   #- bioconductor-complexheatmap
